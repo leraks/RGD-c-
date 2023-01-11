@@ -1,4 +1,4 @@
-# RGD-c-
+# RGD-c++
 # ENG
 Create a program for managing data objects on a specified topic using OOP and implement the learned patterns. It is necessary to create at least 3 entity objects of different types and specify the interaction between the objects. Implement input, output, and edit interfaces for entities. Implement manual entry of entities, loading from a file and saving to a file, deleting selected entities. Store data between program launches in a structured text file.
 
